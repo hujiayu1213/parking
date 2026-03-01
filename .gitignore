@@ -1,0 +1,25 @@
+# 编译产物
+MDK-ARM/parking/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+*.axf
+*.hex
+*.crf
+*.o
+*.d
+*.htm
+*.map
+*.lst
+*.sct
+
+# 临时文件
+*.swp
+*.swo
+*.log
+*.bak
+
+# IDE配置
+.vscode/
+*.uvguix*
+*.uvoptx
+*.uvprojx
